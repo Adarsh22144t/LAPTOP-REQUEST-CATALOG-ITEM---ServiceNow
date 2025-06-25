@@ -33,19 +33,22 @@ Create a catalog item named `Laptop Request` and add required variables such as:
 - Justification
 - Duration needed
 
-> 📸 **Screenshot 1**: *Laptop Request form in ServiceNow UI*
+![image](https://github.com/user-attachments/assets/40fb764b-d046-4363-84a9-a5464af5d875)
+
 
 ### 🔄 Step 3: Add Catalog UI Policies
 Create UI policies to:
 - Show/hide fields based on selections
 - Make fields mandatory dynamically
 
-> 📸 **Screenshot 2**: *Dynamic behavior of fields*
+![image](https://github.com/user-attachments/assets/42da46d6-f5de-4117-8147-b961ee35fdf5)
+
 
 ### ⚙️ Step 4: Create UI Action (Reset Form)
 Add a `Reset Form` button using a client-side UI Action to clear the form inputs.
 
-> 📸 **Screenshot 3**: *Reset Form button demonstration*
+![image](https://github.com/user-attachments/assets/56c7a166-aa9f-4f8f-aae6-84ced18d3b1d)
+
 
 ### ⏫ Step 5: Export Changes
 Export the update set to an XML file for reuse in other ServiceNow instances.
@@ -59,7 +62,9 @@ Submit a test request and verify:
 - Form behavior
 - Request visibility in ServiceNow portal
 
-> 📸 **Screenshot 4**: *Submitted request overview*
+![image](https://github.com/user-attachments/assets/b0255495-0e5e-4878-8a29-0e71580c7f49)
+
+![image](https://github.com/user-attachments/assets/e28cff0e-ac99-4674-9359-62caba3b0533)
 
 ---
 
@@ -70,7 +75,4 @@ The **Laptop Request Catalog Item** project streamlines the laptop request proce
 - Replaces outdated manual processes
 - Improves employee satisfaction with a modern interface
 
----
-
-## 📂 Folder Structure
 
